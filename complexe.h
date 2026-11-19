@@ -36,10 +36,9 @@ class Complexe{
         Complexe& operator-=(const Complexe& x) ;
         Complexe& operator*=(const Complexe& x) ;
         Complexe& operator/=(const Complexe& x) ;
-        
+
     //Destructeur
         ~Complexe();
-
 };
 
 #endif
